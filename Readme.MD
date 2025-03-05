@@ -3,8 +3,9 @@
 ## Materia:
 # Taller Avanzado de Desarrollo de Software
 
-## Actividad:Clase 13 - webApi (Modelo Censo actualizado)
-# Apertura: domingo, 2 de marzo de 2025, 00:00
+## Actividad:
+# Clase 13 - webApi (Modelo Censo actualizado)
+
 
 ## Estudiantes:
 # Edgar Hernández Mendoza
